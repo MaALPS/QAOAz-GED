@@ -1,4 +1,5 @@
-# QAOA-Based Algorithms for Graph Optimization
+# Quantum alternating operator ansatz with block-ring mixer and hot-start strategy for graph edit distance problem
+
 
 This project implements three quantum algorithms based on the Quantum Approximate Optimization Algorithm (QAOA) for solving graph optimization problems such as Graph Edit Distance (GED). 
 
