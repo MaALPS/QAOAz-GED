@@ -1,0 +1,48 @@
+
+data:['graph_n3_p0.1_r1.pkl', 'graph_n3_p0.1_r10.pkl', 'graph_n3_p0.1_r2.pkl', 'graph_n3_p0.1_r3.pkl', 'graph_n3_p0.1_r4.pkl', 'graph_n3_p0.1_r5.pkl', 'graph_n3_p0.1_r6.pkl', 'graph_n3_p0.1_r7.pkl', 'graph_n3_p0.1_r8.pkl', 'graph_n3_p0.1_r9.pkl']:
+depth:3
+avg_opt_gaps:[0.04777777777777764, 0.022444444444444395, 0.008888888888888887, 0.03444444444444436, 0.4362222222222306, 0.014666666666666646, 0.022222222222222174, 0.011111111111111101, 0.030222222222222147, 0.45266666666667527]
+accs:0.8
+avg_opt_gap:0.10806666666666831
+
+data:['graph_n3_p0.33_r1.pkl', 'graph_n3_p0.33_r10.pkl', 'graph_n3_p0.33_r2.pkl', 'graph_n3_p0.33_r3.pkl', 'graph_n3_p0.33_r4.pkl', 'graph_n3_p0.33_r5.pkl', 'graph_n3_p0.33_r6.pkl', 'graph_n3_p0.33_r7.pkl', 'graph_n3_p0.33_r8.pkl', 'graph_n3_p0.33_r9.pkl']:
+depth:3
+avg_opt_gaps:[0.009777777777777772, 0.42511111111111927, 0.12866666666666782, 0.4526666666666753, 0.44066666666667503, 0.02133333333333329, 0.4420000000000083, 0.013999999999999981, 0.04066666666666656, 0.008444444444444445]
+accs:0.6
+avg_opt_gap:0.19833333333333675
+
+data:['graph_n3_p0.66_r1.pkl', 'graph_n3_p0.66_r10.pkl', 'graph_n3_p0.66_r2.pkl', 'graph_n3_p0.66_r3.pkl', 'graph_n3_p0.66_r4.pkl', 'graph_n3_p0.66_r5.pkl', 'graph_n3_p0.66_r6.pkl', 'graph_n3_p0.66_r7.pkl', 'graph_n3_p0.66_r8.pkl', 'graph_n3_p0.66_r9.pkl']:
+depth:3
+avg_opt_gaps:[0.43000000000000826, 0.02933333333333326, 0.4417777777777863, 0.01088888888888888, 0.0788888888888891, 0.01066666666666666, 0.28866666666667024, 0.4371111111111195, 0.4448888888888972, 0.05866666666666649]
+accs:0.6
+avg_opt_gap:0.22308888888889258
+
+data:['graph_n3_p0.9_r1.pkl', 'graph_n3_p0.9_r10.pkl', 'graph_n3_p0.9_r2.pkl', 'graph_n3_p0.9_r3.pkl', 'graph_n3_p0.9_r4.pkl', 'graph_n3_p0.9_r5.pkl', 'graph_n3_p0.9_r6.pkl', 'graph_n3_p0.9_r7.pkl', 'graph_n3_p0.9_r8.pkl', 'graph_n3_p0.9_r9.pkl']:
+depth:3
+avg_opt_gaps:[0.4546666666666752, 0.44688888888889733, 0.43622222222223045, 0.04377777777777766, 0.42933333333334117, 0.06844444444444436, 0.42577777777778575, 0.08022222222222244, 0.0442222222222221, 0.0068888888888888914]
+accs:0.5
+avg_opt_gap:0.2436444444444485
+----------------------
+data:['graph_n4_p0.1_r1.pkl', 'graph_n4_p0.1_r10.pkl', 'graph_n4_p0.1_r2.pkl', 'graph_n4_p0.1_r3.pkl', 'graph_n4_p0.1_r4.pkl', 'graph_n4_p0.1_r5.pkl', 'graph_n4_p0.1_r6.pkl', 'graph_n4_p0.1_r7.pkl', 'graph_n4_p0.1_r8.pkl', 'graph_n4_p0.1_r9.pkl']:
+depth:3
+avg_opt_gaps:[0.05775, 0.376, 0.25225, 0.005625, 0.24275, 0.262375, 0.0075, 0.25675, 0.24675, 0.008375]
+accs:0.4
+avg_opt_gap:0.1716125
+
+data:['graph_n4_p0.33_r1.pkl', 'graph_n4_p0.33_r10.pkl', 'graph_n4_p0.33_r2.pkl', 'graph_n4_p0.33_r3.pkl', 'graph_n4_p0.33_r4.pkl', 'graph_n4_p0.33_r5.pkl', 'graph_n4_p0.33_r6.pkl', 'graph_n4_p0.33_r7.pkl', 'graph_n4_p0.33_r8.pkl', 'graph_n4_p0.33_r9.pkl']:
+depth:3
+avg_opt_gaps:[0.006375, 0.028, 0.258625, 0.264, 0.373875, 0.497, 0.4845, 0.02275, 0.03975, 0.257875]
+accs:0.4
+avg_opt_gap:0.22327499999999997
+
+data:['graph_n4_p0.66_r1.pkl', 'graph_n4_p0.66_r10.pkl', 'graph_n4_p0.66_r2.pkl', 'graph_n4_p0.66_r3.pkl', 'graph_n4_p0.66_r4.pkl', 'graph_n4_p0.66_r5.pkl', 'graph_n4_p0.66_r6.pkl', 'graph_n4_p0.66_r7.pkl', 'graph_n4_p0.66_r8.pkl', 'graph_n4_p0.66_r9.pkl']:
+depth:3
+avg_opt_gaps:[0.24725, 0.008125, 0.24925, 0.01175, 0.44625, 0.24825, 0.0315, 0.377, 0.252375, 0.49825]
+accs:0.3
+avg_opt_gap:0.23700000000000002
+
+data:['graph_n4_p0.9_r1.pkl', 'graph_n4_p0.9_r10.pkl', 'graph_n4_p0.9_r2.pkl', 'graph_n4_p0.9_r3.pkl', 'graph_n4_p0.9_r4.pkl', 'graph_n4_p0.9_r5.pkl', 'graph_n4_p0.9_r6.pkl', 'graph_n4_p0.9_r7.pkl', 'graph_n4_p0.9_r8.pkl', 'graph_n4_p0.9_r9.pkl']:
+depth:3
+avg_opt_gaps:[0.03875, 0.256, 0.266625, 0.248625, 0.375, 0.2565, 0.251125, 0.374125, 0.011875, 0.2535]
+accs:0.2
+avg_opt_gap:0.23321249999999996
