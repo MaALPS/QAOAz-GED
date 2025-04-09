@@ -1,6 +1,6 @@
 # QAOA-Based Algorithms for Graph Optimization
 
-This project implements three quantum-inspired algorithms based on the Quantum Approximate Optimization Algorithm (QAOA) for solving graph optimization problems such as Graph Edit Distance (GED). The codebase is structured to support data generation, algorithm execution, meta-learning-based initialization, and visualization for academic use.
+This project implements three quantum algorithms based on the Quantum Approximate Optimization Algorithm (QAOA) for solving graph optimization problems such as Graph Edit Distance (GED). 
 
 ##  Directory Structure
 
